@@ -59,6 +59,3 @@ if (sum !== null) {
     console.log('No se puede calcular el promedio debido a datos no válidos.');
 }
 
-
-
-
