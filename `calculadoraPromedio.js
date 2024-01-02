@@ -5,45 +5,8 @@
 let studentName = 'Alex';
 let subject = 'Maths';
 let grade1 = 5;
-let grade2 = 0;
+let grade2 = 10;
 let grade3 = 7;
-/* 
-let isNumber = typeof (grade1);
-/* console.log(isNumber); */
-
-/*if (isNumber === 'number') {
-    console.log('Number valid')
-} else {
-    console.log('Value is not a number. Try again')
-}
-
-let number = grade3
-
-if ( number >= 0 && number <= 10) {
-    console.log('Number is ok');
-    let totalSum = grade1 + grade2 + grade3;
-    let average = totalSum / 3
-
-    if (average >= 7) {
-        console.log(studentName +', ¡felicidades! Has aprobado con un promedio de ' + average)
-    } else {
-        console.log(studentName +', gracias por tu esfuerzo. Nos vemos pronto en clase. El promedio obtenido es ' + average)
-    } 
-    
-} else {
-    console.log('Value is not valid. Try again')
-}
-
-
-
-
- */
-
-//let isNumber = typeof (grade3);
-/* console.log(isNumber); */
-
-
-
 
 const isNumber = (grade) => typeof (grade);
 
